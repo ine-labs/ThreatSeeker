@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 Ashish Bhangale, Sr. Security Researcher, Lab Platform, INE <abhangale@ine.com>
 
-Arafat Ansari, Software Engineer (Security), Lab Platform, INE  <jmathai@ine.com>
+Arafat Ansari, Software Engineer (Security), Lab Platform, INE  <aansari@ine.com>
 
 G Khartheesvar, Software Engineer (Security), Lab Platform, INE <gkhartheesvar@ine.com>
 
